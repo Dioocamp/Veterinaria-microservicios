@@ -1,0 +1,17 @@
+com\veterinaria\especialidades\exception\GlobalExceptionHandler.class
+com\veterinaria\especialidades\dto\EspecialidadRequest$EspecialidadRequestBuilder.class
+com\veterinaria\especialidades\EspecialidadesApplication.class
+com\veterinaria\especialidades\exception\BadRequestException.class
+com\veterinaria\especialidades\exception\DuplicateResourceException.class
+com\veterinaria\especialidades\service\impl\EspecialidadServiceImpl.class
+com\veterinaria\especialidades\controller\EspecialidadController.class
+com\veterinaria\especialidades\dto\EspecialidadRequest.class
+com\veterinaria\especialidades\dto\EspecialidadResponse$EspecialidadResponseBuilder.class
+com\veterinaria\especialidades\entity\Especialidad$EspecialidadBuilder.class
+com\veterinaria\especialidades\entity\Especialidad.class
+com\veterinaria\especialidades\exception\ErrorResponse.class
+com\veterinaria\especialidades\exception\ResourceNotFoundException.class
+com\veterinaria\especialidades\service\EspecialidadService.class
+com\veterinaria\especialidades\exception\ErrorResponse$ErrorResponseBuilder.class
+com\veterinaria\especialidades\dto\EspecialidadResponse.class
+com\veterinaria\especialidades\repository\EspecialidadRepository.class

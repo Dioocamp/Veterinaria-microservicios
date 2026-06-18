@@ -1,0 +1,17 @@
+com\veterinaria\servicios\dto\ServicioResponse.class
+com\veterinaria\servicios\service\impl\ServicioServiceImpl.class
+com\veterinaria\servicios\exception\ErrorResponse.class
+com\veterinaria\servicios\exception\BadRequestException.class
+com\veterinaria\servicios\entity\Servicio$ServicioBuilder.class
+com\veterinaria\servicios\entity\Servicio.class
+com\veterinaria\servicios\repository\ServicioRepository.class
+com\veterinaria\servicios\exception\DuplicateResourceException.class
+com\veterinaria\servicios\controller\ServicioController.class
+com\veterinaria\servicios\dto\ServicioResponse$ServicioResponseBuilder.class
+com\veterinaria\servicios\exception\GlobalExceptionHandler.class
+com\veterinaria\servicios\service\ServicioService.class
+com\veterinaria\servicios\exception\ResourceNotFoundException.class
+com\veterinaria\servicios\ServiciosApplication.class
+com\veterinaria\servicios\exception\ErrorResponse$ErrorResponseBuilder.class
+com\veterinaria\servicios\dto\ServicioRequest$ServicioRequestBuilder.class
+com\veterinaria\servicios\dto\ServicioRequest.class

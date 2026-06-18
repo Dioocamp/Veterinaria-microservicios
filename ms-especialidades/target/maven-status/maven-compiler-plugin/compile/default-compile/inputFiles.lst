@@ -1,0 +1,13 @@
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-especialidades\src\main\java\com\veterinaria\especialidades\controller\EspecialidadController.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-especialidades\src\main\java\com\veterinaria\especialidades\dto\EspecialidadRequest.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-especialidades\src\main\java\com\veterinaria\especialidades\dto\EspecialidadResponse.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-especialidades\src\main\java\com\veterinaria\especialidades\entity\Especialidad.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-especialidades\src\main\java\com\veterinaria\especialidades\EspecialidadesApplication.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-especialidades\src\main\java\com\veterinaria\especialidades\exception\BadRequestException.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-especialidades\src\main\java\com\veterinaria\especialidades\exception\DuplicateResourceException.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-especialidades\src\main\java\com\veterinaria\especialidades\exception\ErrorResponse.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-especialidades\src\main\java\com\veterinaria\especialidades\exception\GlobalExceptionHandler.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-especialidades\src\main\java\com\veterinaria\especialidades\exception\ResourceNotFoundException.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-especialidades\src\main\java\com\veterinaria\especialidades\repository\EspecialidadRepository.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-especialidades\src\main\java\com\veterinaria\especialidades\service\EspecialidadService.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-especialidades\src\main\java\com\veterinaria\especialidades\service\impl\EspecialidadServiceImpl.java

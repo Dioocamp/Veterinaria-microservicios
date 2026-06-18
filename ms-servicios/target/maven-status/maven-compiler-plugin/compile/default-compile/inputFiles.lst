@@ -1,0 +1,13 @@
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-servicios\src\main\java\com\veterinaria\servicios\controller\ServicioController.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-servicios\src\main\java\com\veterinaria\servicios\dto\ServicioRequest.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-servicios\src\main\java\com\veterinaria\servicios\dto\ServicioResponse.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-servicios\src\main\java\com\veterinaria\servicios\entity\Servicio.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-servicios\src\main\java\com\veterinaria\servicios\exception\BadRequestException.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-servicios\src\main\java\com\veterinaria\servicios\exception\DuplicateResourceException.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-servicios\src\main\java\com\veterinaria\servicios\exception\ErrorResponse.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-servicios\src\main\java\com\veterinaria\servicios\exception\GlobalExceptionHandler.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-servicios\src\main\java\com\veterinaria\servicios\exception\ResourceNotFoundException.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-servicios\src\main\java\com\veterinaria\servicios\repository\ServicioRepository.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-servicios\src\main\java\com\veterinaria\servicios\service\impl\ServicioServiceImpl.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-servicios\src\main\java\com\veterinaria\servicios\service\ServicioService.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-servicios\src\main\java\com\veterinaria\servicios\ServiciosApplication.java

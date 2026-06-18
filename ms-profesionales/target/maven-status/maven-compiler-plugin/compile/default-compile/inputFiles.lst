@@ -1,0 +1,15 @@
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-profesionales\src\main\java\com\veterinaria\profesionales\client\dto\EspecialidadDTO.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-profesionales\src\main\java\com\veterinaria\profesionales\client\EspecialidadClient.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-profesionales\src\main\java\com\veterinaria\profesionales\controller\ProfesionalController.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-profesionales\src\main\java\com\veterinaria\profesionales\dto\ProfesionalRequest.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-profesionales\src\main\java\com\veterinaria\profesionales\dto\ProfesionalResponse.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-profesionales\src\main\java\com\veterinaria\profesionales\entity\Profesional.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-profesionales\src\main\java\com\veterinaria\profesionales\exception\BadRequestException.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-profesionales\src\main\java\com\veterinaria\profesionales\exception\DuplicateResourceException.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-profesionales\src\main\java\com\veterinaria\profesionales\exception\ErrorResponse.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-profesionales\src\main\java\com\veterinaria\profesionales\exception\GlobalExceptionHandler.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-profesionales\src\main\java\com\veterinaria\profesionales\exception\ResourceNotFoundException.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-profesionales\src\main\java\com\veterinaria\profesionales\ProfesionalesApplication.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-profesionales\src\main\java\com\veterinaria\profesionales\repository\ProfesionalRepository.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-profesionales\src\main\java\com\veterinaria\profesionales\service\impl\ProfesionalServiceImpl.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-profesionales\src\main\java\com\veterinaria\profesionales\service\ProfesionalService.java

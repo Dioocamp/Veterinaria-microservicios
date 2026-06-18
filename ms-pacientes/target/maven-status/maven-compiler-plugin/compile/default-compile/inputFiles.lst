@@ -1,0 +1,15 @@
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-pacientes\src\main\java\com\veterinaria\pacientes\client\dto\TutorDTO.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-pacientes\src\main\java\com\veterinaria\pacientes\client\TutorClient.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-pacientes\src\main\java\com\veterinaria\pacientes\controller\PacienteController.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-pacientes\src\main\java\com\veterinaria\pacientes\dto\PacienteRequest.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-pacientes\src\main\java\com\veterinaria\pacientes\dto\PacienteResponse.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-pacientes\src\main\java\com\veterinaria\pacientes\entity\Paciente.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-pacientes\src\main\java\com\veterinaria\pacientes\exception\BadRequestException.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-pacientes\src\main\java\com\veterinaria\pacientes\exception\DuplicateResourceException.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-pacientes\src\main\java\com\veterinaria\pacientes\exception\ErrorResponse.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-pacientes\src\main\java\com\veterinaria\pacientes\exception\GlobalExceptionHandler.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-pacientes\src\main\java\com\veterinaria\pacientes\exception\ResourceNotFoundException.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-pacientes\src\main\java\com\veterinaria\pacientes\PacientesApplication.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-pacientes\src\main\java\com\veterinaria\pacientes\repository\PacienteRepository.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-pacientes\src\main\java\com\veterinaria\pacientes\service\impl\PacienteServiceImpl.java
+C:\Users\Jhoca\OneDrive\Documentos\Claude-Code\veterinaria-microservicios\ms-pacientes\src\main\java\com\veterinaria\pacientes\service\PacienteService.java
