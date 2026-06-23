@@ -43,11 +43,15 @@ microservicio por su puerto, todo entra por `http://localhost:8080/<servicio>/..
 | `/ms-tutores/**` | ms-tutores | Token con **ROLE_ADMIN** |
 | `/ms-pacientes/**` | ms-pacientes | Token con **ROLE_TUTOR** |
 | `/ms-profesionales/**` | ms-profesionales | Token con **ROLE_PROFESIONAL** |
-| `/ms-especialidades/**` | ms-especialidades | Token válido (cualquier rol) |
-| `/ms-procedimientos/**` | ms-procedimientos | Token válido |
-| `/ms-servicios/**` | ms-servicios | Token válido |
-| `/ms-categorias/**` | ms-categorias | Token válido |
-| `/ms-productos/**` | ms-productos | Token válido |
+| `/ms-especialidades/**` | ms-especialidades | Público (sin token) |
+| `/ms-procedimientos/**` | ms-procedimientos | Público (sin token) |
+| `/ms-servicios/**` | ms-servicios | Público (sin token) |
+| `/ms-categorias/**` | ms-categorias | Público (sin token) |
+| `/ms-productos/**` | ms-productos | Público (sin token) |
+
+La **seguridad por rol se aplica solo a tutores, pacientes y profesionales**. El resto de los
+servicios se enrutan por el gateway pero quedan abiertos (sin token). La **documentación Swagger** y
+el **despliegue Docker** sí están en **todos** los microservicios.
 
 Respuestas del filtro: **401** si no hay token o es inválido/expirado; **403** si el token es válido
 pero no tiene el rol requerido.
