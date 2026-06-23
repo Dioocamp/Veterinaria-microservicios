@@ -20,6 +20,8 @@
 
     <modules>
         <module>eureka-server</module>
+        <module>api-gateway</module>
+        <module>ms-auth</module>
         <module>ms-tutores</module>
         <module>ms-pacientes</module>
         <module>ms-especialidades</module>
@@ -35,6 +37,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <lombok.version>1.18.46</lombok.version>
         <spring-cloud.version>2023.0.3</spring-cloud.version>
+        <springdoc.version>2.6.0</springdoc.version>
     </properties>
 
     <dependencyManagement>

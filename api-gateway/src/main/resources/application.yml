@@ -1,0 +1,98 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: api-gateway
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: false
+      routes:
+        - id: ms-auth-public
+          uri: lb://ms-auth
+          predicates:
+            - Path=/ms-auth/auth/**
+          filters:
+            - StripPrefix=1
+
+        - id: route-ms-tutores
+          uri: lb://ms-tutores
+          predicates:
+            - Path=/ms-tutores/**
+          filters:
+            - StripPrefix=1
+            - name: AuthenticationFilter
+              args:
+                requiredRole: ROLE_ADMIN
+
+        - id: route-ms-pacientes
+          uri: lb://ms-pacientes
+          predicates:
+            - Path=/ms-pacientes/**
+          filters:
+            - StripPrefix=1
+            - name: AuthenticationFilter
+              args:
+                requiredRole: ROLE_TUTOR
+
+        - id: route-ms-profesionales
+          uri: lb://ms-profesionales
+          predicates:
+            - Path=/ms-profesionales/**
+          filters:
+            - StripPrefix=1
+            - name: AuthenticationFilter
+              args:
+                requiredRole: ROLE_PROFESIONAL
+
+        - id: route-ms-especialidades
+          uri: lb://ms-especialidades
+          predicates:
+            - Path=/ms-especialidades/**
+          filters:
+            - StripPrefix=1
+            - name: AuthenticationFilter
+
+        - id: route-ms-procedimientos
+          uri: lb://ms-procedimientos
+          predicates:
+            - Path=/ms-procedimientos/**
+          filters:
+            - StripPrefix=1
+            - name: AuthenticationFilter
+
+        - id: route-ms-servicios
+          uri: lb://ms-servicios
+          predicates:
+            - Path=/ms-servicios/**
+          filters:
+            - StripPrefix=1
+            - name: AuthenticationFilter
+
+        - id: route-ms-categorias
+          uri: lb://ms-categorias
+          predicates:
+            - Path=/ms-categorias/**
+          filters:
+            - StripPrefix=1
+            - name: AuthenticationFilter
+
+        - id: route-ms-productos
+          uri: lb://ms-productos
+          predicates:
+            - Path=/ms-productos/**
+          filters:
+            - StripPrefix=1
+            - name: AuthenticationFilter
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    prefer-ip-address: true
+
+jwt:
+  secret: "ClaveSecretaNoTanSecretaMishAunFaltanMasLetras"

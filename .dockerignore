@@ -1,0 +1,6 @@
+.git
+.idea
+**/src
+**/*.md
+**/.gitignore
+_inspeccion
